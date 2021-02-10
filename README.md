@@ -5,4 +5,3 @@ For help and support you can join the discord server [here](https://discord.gg/1
 
 All of these tools are used by your own risk, i do not take responsiblity for any of your actions.
 
-Some credit goes to [Dropout](https://github.com/Dropout1337), which helped me make the Nuker.
